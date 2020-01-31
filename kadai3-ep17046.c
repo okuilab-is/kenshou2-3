@@ -5,7 +5,7 @@ int main(void){
  float k,l,min=0;
  scanf("%d%f",&n,&k);
  for(i=0;i<n;i++;){
-  scanf("%f",&d);
+  scanf("%f",&l);
   if(l=<k){
    if(f=0){
     min=l;
