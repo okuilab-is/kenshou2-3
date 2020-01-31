@@ -2,5 +2,5 @@
 int main(void){
   int n;
   float k;
-  scanf("%d %lf",&n,&k);
+  scanf("%d %f",&n,&k);
 }
