@@ -11,7 +11,7 @@ int main(void){
 	n-=i;
 	for(i=0;i<n;i++){
 		scanf("%lf",&x);
-		if(x<=k;a<k){a=x;}
+		if(x<=k && a<k){a=x;}
 	}
 	printf("%lf\n",a);
 }
