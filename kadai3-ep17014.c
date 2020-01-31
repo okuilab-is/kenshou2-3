@@ -4,6 +4,6 @@ int main(void){
   float k,num[128];
   scanf("%d %f",&n,&k);
   for(i=0;i<n;i++){
-    scanf("%f",num[i]);
+    scanf("%lf",num[i]);
   }
 }
