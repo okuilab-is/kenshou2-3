@@ -15,5 +15,5 @@ int main(void){
    }
   }
  }
- printf("%f",min)
+ printf("%f",min);
 }
