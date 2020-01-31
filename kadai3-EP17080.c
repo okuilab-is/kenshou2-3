@@ -1,18 +1,22 @@
 #include<stdio.h>
 int main(void){
   double n,k,x,y;
-  int i;
+  int i,j;
   scanf("%lf",&n);
   scanf("%lf",&k);
-  y=k-100;
+  j=0;
   for(i=0;i<n;i++){
     scanf("%lf",&x);
     if(k >= x){
+      if(j=0){  
+        y=x;
+        j=1;
+      }
       if(y<x){
         y=x;
       }
     }
   }
-  printf("%f",y);
+  printf("%f\n",y);
   return 0;
 }
