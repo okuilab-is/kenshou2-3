@@ -5,6 +5,7 @@ int main(){
 	double k,x,ans;
 	scanf("%d",&n);
 	scanf("%lf",&k);
+	x=k+1;
 	for(i=0;x>k;i++){
 		scanf("%lf",&x);
 		ans=x;
