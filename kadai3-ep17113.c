@@ -15,7 +15,7 @@ int main(){
         max=a;
       }  
     }
-    printf("%lf",a);
+    printf("%lf",max);
   }
   printf("%lf\n",max);
 }
