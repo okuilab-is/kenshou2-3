@@ -9,7 +9,7 @@ int main(){
 		scanf("%lf",&x);
 		ans=x;
 	}
-	if(i<n) printf("Under k is None.\n");
+	if(i>=n) printf("Under k is None.\n");
 	for(;i<n;i++){
 		scanf("%lf",&x);
 		if(x>ans && x<=k){
