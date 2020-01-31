@@ -8,7 +8,7 @@ int main(void){
 	double a=-100;
 	for(i=0;i<n;i++){
 		scanf("%lf",&x);
-		if(x<k && a<x){a=x;}
+		if(x<=k && a<x){a=x;}
 	}
 	printf("%lf\n",a);
 }
