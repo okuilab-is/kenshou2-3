@@ -2,11 +2,10 @@
 
 int main(){
   int i,n;
-  double k,val1,val2,min;
+  double k,val1,min;
 
   scanf("%d %lf %lf",&n,&k);
   min=k+1;
-  val2=k+1;
   for(i=1;i<n;i++){
     scanf("%lf",&val1);
     if(k>=val1){
