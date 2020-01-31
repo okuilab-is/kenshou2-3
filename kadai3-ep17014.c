@@ -11,7 +11,7 @@ int main(void){
     }
   }
   for(i=0;i<l;i++){
-    if(ans>nummin[i]){
+    if(ans<nummin[i]){
       ans=nummin[i];
     }
   }
