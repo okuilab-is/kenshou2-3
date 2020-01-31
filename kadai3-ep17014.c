@@ -6,8 +6,8 @@ int main(void){
   for(i=0;i<n;i++){
     scanf("%f",&num[i]);
     if(num[i]<=k){
-      nummin[l]=num[i];
       ans=num[i];
+      nummin[l]=num[i];
       l++;
     }
   }
