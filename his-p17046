@@ -1,0 +1,52 @@
+    47	17:06	vi test.c
+    48	17:06	gcc test.c
+    49	17:06	clear
+    50	17:15	vi kadai3-ep17046.c
+    51	17:26	gcc kadai3-ep17046.c
+    52	17:26	vi kadai3-ep17046.c
+    53	17:26	gcc kadai3-ep17046.c
+    54	17:26	vi kadai3-ep17046.c
+    55	17:26	gcc kadai3-ep17046.c
+    56	17:27	vi kadai3-ep17046.c
+    57	17:27	gcc kadai3-ep17046.c
+    58	17:27	vi kadai3-ep17046.c
+    59	17:28	gcc kadai3-ep17046.c
+    60	17:29	vi kadai3-ep17046.c
+    61	17:29	gcc kadai3-ep17046.c
+    62	17:29	vi kadai3-ep17046.c
+    63	17:30	gcc kadai3-ep17046.c
+    64	17:30	vi kadai3-ep17046.c
+    65	17:31	gcc kadai3-ep17046.c
+    66	17:31	vi kadai3-ep17046.c
+    67	17:32	gcc kadai3-ep17046.c
+    68	17:32	a.out
+    69	17:32	vi kadai3-ep17046.c
+    70	17:32	gcc kadai3-ep17046.c
+    71	17:33	a.out
+    72	17:33	vi kadai3-ep17046.c
+    73	17:34	vi kadai3-ep17046.c
+    74	17:38	gcc kadai3-ep17046.c
+    75	17:38	vi kadai3-ep17046.c
+    76	17:39	gcc kadai3-ep17046.c
+    77	17:39	a.out
+    78	17:40	a.out
+    79	17:40	a.out
+    80	17:40	vi kadai3-ep17046.c
+    81	17:41	gcc kadai3-ep17046.c
+    82	17:41	a.out
+    83	17:41	3
+    84	17:41	2
+    85	17:41	a.out
+    86	17:41	a.out
+    87	17:41	gcc kadai3-ep17046.c
+    88	17:42	vi kadai3-ep17046.c
+    89	17:42	gcc kadai3-ep17046.c
+    90	17:43	vi kadai3-ep17046.c
+    91	17:43	gcc kadai3-ep17046.c
+    92	17:43	vi kadai3-ep17046.c
+    93	17:43	gcc kadai3-ep17046.c
+    94	17:43	a.out
+    95	17:43	a.out
+    96	17:43	a.out
+    97	17:45	cat info
+    98	17:46	history > his-$USER
