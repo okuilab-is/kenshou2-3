@@ -16,6 +16,6 @@ int main(void){
       ans=nummin[i];
     }
   }
-  printf("%f",ans);
+  printf("%f\n",ans);
   return 0;
 }
