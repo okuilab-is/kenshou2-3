@@ -1,17 +1,13 @@
 #include<stdio.h>
 int main(void){
   double n,k,x,y;
-  int i,j;
+  int i;
   scanf("%lf",&n);
   scanf("%lf",&k);
-  j=0;
+  y=k-10000;
   for(i=0;i<n;i++){
     scanf("%lf",&x);
     if(k >= x){
-      if(j=0){  
-        y=x;
-        j++;
-      }
       if(y<x){
         y=x;
       }
