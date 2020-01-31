@@ -17,7 +17,7 @@ int main(){
       }  
     }  
   }
-  prinf("%lf\n",a);
+  printf("%lf\n",a);
 
 
 }
