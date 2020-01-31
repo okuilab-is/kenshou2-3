@@ -6,11 +6,11 @@ int main(void){
   for(i=0;i<n;i++){
     scanf("%f",&num[i]);
     if(num[i]<=k){
-      ans=num[i];
       nummin[minmax]=num[i];
       minmax++;
     }
   }
+  ans=nummin[0];
   for(i=0;i<minmax;i++){
     if(ans<nummin[i])ans=nummin[i];
   }
