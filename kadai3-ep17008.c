@@ -4,13 +4,13 @@ int main(){
 	int n,i;
 	double k,l,ANS=-1000.0;
 	scanf("%d",&n);
-	scanf("%le",&k);
+	scanf("%lf",&k);
 	for(i=0;i<n;i++){
-		scanf("%le",&l);
+		scanf("%lf",&l);
 		if(l<=k){
 			if(ANS<l){ANS=l;}
 		}
 	}
-	printf("%e\n",ANS);
+	printf("%lf\n",ANS);
 	return 0;
 }
