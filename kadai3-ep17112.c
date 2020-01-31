@@ -6,7 +6,9 @@ int main(){
   scanf("%d%lf",&n,&k);
   for(i=0;i<n;i++){
 	  scanf("%lf",&x);
-		if(ans<x && x<=k)ans=x;
+		if(x<=k){
+		  ans=x;
+	  }
 	}
-  printf("%f",ans);
+  printf("%f\n",ans);
 }
