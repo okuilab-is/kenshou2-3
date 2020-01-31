@@ -12,6 +12,9 @@ int main(){
 	}
 	for(;i<n;i++){
 		scanf("%lf",&x);
+		if(x>ans && x<=k){
+		  ans=x;
+		}
 	}
 	printf("%f\n",ans);
 }
