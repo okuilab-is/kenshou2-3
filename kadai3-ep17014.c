@@ -5,7 +5,7 @@ int main(void){
   scanf("%d %f",&n,&ans);
   for(i=0;i<n;i++){
     scanf("%f",&num[i]);
-    if(num[i]<=k){
+    if(num[i]<=ans){
       nummin[l]=num[i];
       l++;
     }
