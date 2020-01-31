@@ -6,7 +6,7 @@ int main(){
   int F=0;
   scanf("%d %lf",&n,&k);
   for(i=0;i<n;i++){
-    scanf("%lf",a);
+    scanf("%lf",&a);
     if(k>=a){
       if(F=0){
         max=a;
