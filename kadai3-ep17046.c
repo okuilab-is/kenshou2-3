@@ -3,7 +3,7 @@
 int main(void){
  int n,i,f=0;
  float k,l,min=0;
- scanf("%d%f",n,&k);
+ scanf("%d%f",&n,&k);
  for(i=0;i<n;i++;){
   scanf("%f",&d);
   if(l=<k){
