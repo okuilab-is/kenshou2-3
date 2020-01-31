@@ -2,11 +2,11 @@
 int main(void){
   double n,k,x,y;
   int i;
-  scanf("%d",&n);
-  scanf("%d",&k);
+  scanf("%lf",&n);
+  scanf("%lf",&k);
   y=k;
   for(i=1;i<n;i++){
-    scanf("%d",&x);
+    scanf("%lf",&x);
     if(k >= x){
       if(i=1){
         y=x;
@@ -16,6 +16,6 @@ int main(void){
       }
     }
   }
-  printf("%d",y);
+  printf("%f",y);
   return 0;
 }
