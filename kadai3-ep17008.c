@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main(){
 	int n,i;
-	double k,l,ANS=-10000.0;
+	double k,l,ANS=-10000.0
 	scanf("%d",&n);
 	scanf("%lf",&k);
 	for(i=0;i<n;i++){
