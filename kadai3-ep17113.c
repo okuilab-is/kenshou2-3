@@ -8,15 +8,14 @@ int main(){
   for(i=0;i<n;i++){
     scanf("%lf",&a);
     if(k>=a){
-      if(F=0){
+      if(F==0){
         max=a;
         F=1;
       }
-      if(F=1 && max<=a){
+      if(F==1 && max<=a){
         max=a;
       }  
     }
-    printf("%lf",max);
   }
   printf("%lf\n",max);
 }
