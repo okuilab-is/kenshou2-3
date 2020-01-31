@@ -10,7 +10,7 @@ int main(void){
    if(f==0){
     min=l;
     f=1;
-   }else i(l>min){
+   }else if(l>min){
     min=l;
    }
   }
