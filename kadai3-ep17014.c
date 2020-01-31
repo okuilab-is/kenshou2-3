@@ -12,9 +12,7 @@ int main(void){
     }
   }
   for(i=0;i<minmax;i++){
-    if(ans<nummin[i]){
-      ans=nummin[i];
-    }
+    if(ans<nummin[i])ans=nummin[i];
   }
   printf("%f\n",ans);
   return 0;
