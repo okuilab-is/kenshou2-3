@@ -16,7 +16,7 @@ int main(){
       }  
     }  
   }
-  printf("%lf\n",a);
+  printf("%lf\n",max);
 
 
 }
