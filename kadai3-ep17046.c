@@ -7,7 +7,7 @@ int main(void){
  for(i=0;i<n;i++){
   scanf("%f",&l);
   if(l <= k){
-   if(f=0){
+   if(f==0){
     min=l;
     f=1;
    }else if(l>min){
@@ -15,5 +15,5 @@ int main(void){
    }
   }
  }
- printf("%f",min);
+ printf("%f\n",min);
 }
