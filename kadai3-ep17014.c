@@ -8,7 +8,7 @@ int main(void){
     if(num[i]<=k){
       ans=num[i];
       nummin[l]=num[i];
-      l++;
+      l++
     }
   }
   for(i=0;i<l;i++){
