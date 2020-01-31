@@ -1,17 +1,17 @@
 #include<stdio.h>
 int main(void){
-  int n,i,l=0;
+  int n,i,minmax=0;
   float k,ans,num[128],nummin[128];
   scanf("%d %f",&n,&k);
   for(i=0;i<n;i++){
     scanf("%f",&num[i]);
     if(num[i]<=k){
       ans=num[i];
-      nummin[l]=num[i];
-      l++
+      nummin[minmax]=num[i];
+      minmax++;
     }
   }
-  for(i=0;i<l;i++){
+  for(i=0;i<minmax;i++){
     if(ans<nummin[i]){
       ans=nummin[i];
     }
