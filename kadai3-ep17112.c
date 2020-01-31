@@ -16,5 +16,4 @@ int main(){
 		if(x>ans && x<=k){
 		  ans=x;}}
 	printf("%f\n",ans);
-	return 0;
-}
+	return 0;}
