@@ -17,7 +17,7 @@ int main(){
       }  
     }  
   }
-  prinf("%lf\n",a)
+  prinf("%lf\n",a);
 
 
 }
