@@ -10,7 +10,7 @@ int main(void){
     if(k >= x){
       if(j=0){  
         y=x;
-        j=1;
+        j++;
       }
       if(y<x){
         y=x;
