@@ -20,4 +20,5 @@ int main(){
 		}
 	}
 	printf("%f\n",ans);
+	return 0;
 }
