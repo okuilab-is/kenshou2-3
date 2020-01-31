@@ -8,7 +8,6 @@ int main(void){
 	for(i=0;a>=k;i++){
 		scanf("%lf",&x);
 		if(x<=k){a=x;}
-		printf("a\n");
 	}
 	n-=i;
 	for(i=0;i<n;i++){

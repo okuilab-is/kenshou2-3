@@ -1,0 +1,31 @@
+    57	17:12	vi test.c
+    58	17:12	gcc test.c
+    59	17:13	clear
+    60	17:15	vi kadai3-EP17126.c
+    61	17:25	gcc kadai3-EP17126.c
+    62	17:25	a.out
+    63	17:25	a.out
+    64	17:25	vi kadai3-EP17126.c
+    65	17:25	gcc kadai3-EP17126.c
+    66	17:25	a.out
+    67	17:26	a.out
+    68	17:26	vi kadai3-EP17126.c
+    69	17:40	gcc kadai3-EP17126.c
+    70	17:40	vi kadai3-EP17126.c
+    71	17:40	gcc kadai3-EP17126.c
+    72	17:40	a.out
+    73	17:40	vi kadai3-EP17126.c
+    74	17:41	gcc kadai3-EP17126.c
+    75	17:41	a.out
+    76	17:41	vi kadai3-EP17126.c
+    77	17:42	gcc kadai3-EP17126.c
+    78	17:42	a.out
+    79	17:42	vi kadai3-EP17126.c
+    80	17:43	gcc kadai3-EP17126.c
+    81	17:43	a.out
+    82	17:43	vi kadai3-EP17126.c
+    83	17:44	gcc kadai3-EP17126.c
+    84	17:44	a.out
+    85	17:44	vi kadai3-EP17126.c
+    86	17:47	cat info
+    87	17:47	history > his-$USER
