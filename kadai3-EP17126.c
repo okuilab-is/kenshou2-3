@@ -5,7 +5,7 @@ int main(void){
 	double k,x;
 	scanf("%d %lf",&n,&k);
 	double a=k+1;
-	for(i=0;a<=k;i++){
+	for(i=0;a>=k;i++){
 		scanf("%lf",&x);
 		if(x<=k){a=x;}
 		printf("a\n");
