@@ -1,0 +1,80 @@
+    57	17:14	vi test.c
+    58	17:14	gcc test.c
+    59	17:14	clear
+    60	17:15	vi kadai3-ep17112.c
+    61	17:16	vi kadai3-ep17112.c
+    62	17:18	gcc kadai3-ep17112.c
+    63	17:18	a.out
+    64	17:18	vi kadai3-ep17112.c
+    65	17:22	gcc kadai3-ep17112.c
+    66	17:23	a.out
+    67	17:23	vi kadai3-ep17112.c
+    68	17:24	gcc kadai3-ep17112.c
+    69	17:24	a.out
+    70	17:24	vi kadai3-ep17112.c
+    71	17:25	gcc kadai3-ep17112.c
+    72	17:25	vi kadai3-ep17112.c
+    73	17:27	gcc kadai3-ep17112.c
+    74	17:27	a.out
+    75	17:27	vi kadai3-ep17112.c
+    76	17:29	gcc kadai3-ep17112.c
+    77	17:29	vi kadai3-ep17112.c
+    78	17:30	gcc kadai3-ep17112.c
+    79	17:30	vi kadai3-ep17112.c
+    80	17:30	gcc kadai3-ep17112.c
+    81	17:30	vi kadai3-ep17112.c
+    82	17:32	vi kadai3-ep17112.c
+    83	17:36	gcc kadai3-ep17112.c
+    84	17:36	a.out
+    85	17:36	vi kadai3-ep17112.c
+    86	17:36	gcc kadai3-ep17112.c
+    87	17:36	a.out
+    88	17:37	vi kadai3-ep17112.c
+    89	17:38	gcc kadai3-ep17112.c
+    90	17:38	a.out
+    91	17:38	a.out
+    92	17:38	a.out
+    93	17:38	vi kadai3-ep17112.c
+    94	17:41	gcc kadai3-ep17112.c
+    95	17:41	a.out
+    96	17:41	vi kadai3-ep17112.c
+    97	17:43	gcc kadai3-ep17112.c
+    98	17:43	a.out
+    99	17:43	vi kadai3-ep17112.c
+   100	17:43	gcc kadai3-ep17112.c
+   101	17:43	a.out
+   102	17:44	vi kadai3-ep17112.c
+   103	17:44	gcc kadai3-ep17112.c
+   104	17:44	a.out
+   105	17:46	vi kadai3-ep17112.c
+   106	17:46	gcc kadai3-ep17112.c
+   107	17:46	a.out
+   108	17:47	vi kadai3-ep17112.c
+   109	17:49	gcc kadai3-ep17112.c
+   110	17:49	a.out
+   111	17:50	vi kadai3-ep17112.c
+   112	17:51	gcc kadai3-ep17112.c
+   113	17:51	a.out
+   114	17:51	vi kadai3-ep17112.c
+   115	17:52	history
+   116	17:52	vi kadai3-ep17112.c
+   117	17:53	gcc kadai3-ep17112.c
+   118	17:53	vi kadai3-ep17112.c
+   119	17:53	gcc kadai3-ep17112.c
+   120	17:53	vi kadai3-ep17112.c
+   121	17:54	gcc kadai3-ep17112.c
+   122	17:54	a.out
+   123	17:54	vi kadai3-ep17112.c
+   124	17:54	gcc kadai3-ep17112.c
+   125	17:55	a.out
+   126	17:55	history
+   127	17:55	gcc kadai3-ep17112.c
+   128	17:56	vi kadai3-ep17112.c
+   129	17:56	gcc kadai3-ep17112.c
+   130	17:57	vi kadai3-ep17112.c
+   131	17:57	gcc kadai3-ep17112.c
+   132	17:57	vi kadai3-ep17112.c
+   133	17:58	gcc kadai3-ep17112.c
+   134	17:58	a.out
+   135	17:59	cat info
+   136	17:59	history > his-$USER
