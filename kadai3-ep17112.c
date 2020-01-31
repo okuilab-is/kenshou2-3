@@ -8,7 +8,7 @@ int main(){
 	for(i=0;x>k && i<n;i++){
 		scanf("%lf",&x);
 		ans=x;}
-	if(i>=n){
+	if(i==n){
 		printf("Below reference value is None.\n");
 		return 0;}
 	for(;i<n;i++){
