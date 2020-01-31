@@ -4,7 +4,7 @@ int main(){
   int i,n;
   double k,val1,min;
 
-  scanf("%d %lf %lf",&n,&k);
+  scanf("%d %lf",&n,&k);
   min=k+1;
   for(i=1;i<n;i++){
     scanf("%lf",&val1);
