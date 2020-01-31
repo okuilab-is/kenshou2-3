@@ -1,12 +1,13 @@
 #include<stdio.h>
 int main(void){
   int n,i,l=0;
-  float ans,num[128],nummin[128];
-  scanf("%d %f",&n,&ans);
+  float k,ans,num[128],nummin[128];
+  scanf("%d %f",&n,&k);
   for(i=0;i<n;i++){
     scanf("%f",&num[i]);
-    if(num[i]<=ans){
+    if(num[i]<=k){
       nummin[l]=num[i];
+      ans=num[i];
       l++;
     }
   }
