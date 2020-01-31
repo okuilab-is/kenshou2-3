@@ -10,7 +10,7 @@ int main(){
 		ans=x;
 	}
 	if(i>=n){
-		printf("Under k is None.\n");
+		printf("Below reference value is None.\n");
 		return 0;
 	}
 	for(;i<n;i++){
