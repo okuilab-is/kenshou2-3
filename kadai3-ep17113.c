@@ -11,8 +11,7 @@ int main(){
       if(F=0){
         max=a;
         F=1;
-      }  
-      if(F=1 && max>=a){
+      }else if(max>=a){
         max=a;
       }  
     }  
