@@ -6,7 +6,7 @@ int main(){
 	scanf("%d",&n);
 	scanf("%lf",&k);
 	for(i=0;i<n;i++){
-		scanf("%le",&l);
+		scanf("%lf",&l);
 		if(l<=k){
 			if(ANS<l){ANS=l;}
 		}
