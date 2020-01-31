@@ -4,9 +4,9 @@ int main(){
 	int n,i;
 	double k,l,ANS=-10000.0;
 	scanf("%d",&n);
-	scanf("%x",&k);
+	scanf("%e",&k);
 	for(i=0;i<n;i++){
-		scanf("%x",&l);
+		scanf("%f",&l);
 		if(l<=k){
 			if(ANS<l){ANS=l;}
 		}
