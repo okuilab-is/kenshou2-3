@@ -14,7 +14,8 @@ int main(){
       }else if(max<=a){
         max=a;
       }  
-    }  
+    }
+    printf("%lf",a);
   }
   printf("%lf\n",max);
 }
